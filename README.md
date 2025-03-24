@@ -7,6 +7,13 @@
 - ⚡ Fun fact: The Eiffel Tower in Paris, France, can be 15 cm taller during the summer months due to the expansion of the
 - iron structure caused by the heat. This iconic landmark, designed by Gustave Eiffel,
 -  stands as a testament to engineering ingenuity and attracts millions of visitors from around the world each year.
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/krishikaravikumar)  
+[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://www.instagram.com/krishika_kkk)
+
+## 🔥 My LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-KrishikaR?theme=light&font=Source%20Code%20Pro)
+
 
 <!---
 KrishikaRavikumar/KrishikaRavikumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
