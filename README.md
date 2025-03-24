@@ -11,9 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/krishikaravikumar)  
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://www.instagram.com/krishika_kkk)
 
-## 🔥 My LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-KrishikaR?theme=light&font=Source%20Code%20Pro)
-
 
 <!---
 KrishikaRavikumar/KrishikaRavikumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
