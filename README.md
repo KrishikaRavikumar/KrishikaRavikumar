@@ -13,6 +13,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8E44AD?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7DF1E?style=for-the-badge&logo=tensorflow&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
