@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through krishikaravik@gmail.com
 - 😄 Pronouns: Miss
-- ⚡ Fun fact: The Eiffel Tower in Paris, France, can be 15 cm taller during the summer months due to the expansion of the
-- iron structure caused by the heat. This iconic landmark, designed by Gustave Eiffel,
--  stands as a testament to engineering ingenuity and attracts millions of visitors from around the world each year.
+- ⚡ Fun fact: The Eiffel Tower in Paris, France, can be 15 cm taller during the summer months due to the expansion of the iron structure caused by the heat. This iconic landmark, designed by Gustave Eiffel, stands as a testament to engineering ingenuity and attracts millions of visitors from around the world each year.
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
