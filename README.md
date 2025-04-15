@@ -19,6 +19,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+## 🧠 LeetCode Stats
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-KrishikaR-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/KrishikaR/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/KrishikaR?theme=dark&font=Source%20Code%20Pro&ext=contest)
 
 ## 📬 Contact Me
 📧 Email: [krishikaravik@gmail.com](mailto:krishikaravik@gmail.com)  
